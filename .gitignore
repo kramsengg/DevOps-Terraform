@@ -1,0 +1,11 @@
+.gradle
+*.tfstate
+*.backup
+*.tfstate.backup
+.terraform
+*_rsa
+.terraform.tfstate.lock.info
+*.auto.tfvars
+.DS_Store
+tmp
+.terraform.lock.hcl
